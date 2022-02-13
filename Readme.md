@@ -11,4 +11,4 @@
     - Queries phụ trách đọc dữ liệu 
     - Command phụ trách ghi dữ liệu 
 ## Mô tả thông qua ảnh
-![description is an images](https://prnt.sc/26uvek9)
+![description is an images](https://ibb.co/yg3KxG4)
