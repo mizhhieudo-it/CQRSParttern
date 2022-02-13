@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a82e9050-ad54-4d88-9fb1-499cbc7d1d80": {
+      "ProjectGuid": "a82e9050-ad54-4d88-9fb1-499cbc7d1d80",
+      "DisplayName": "CQRSPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
