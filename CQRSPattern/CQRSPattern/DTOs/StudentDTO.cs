@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CQRSPattern.DTOs
 {
-    internal class StudentDTO
+    public class StudentDTO
     {
         public int Id { get; set; }
         public string FullName { get; set; }

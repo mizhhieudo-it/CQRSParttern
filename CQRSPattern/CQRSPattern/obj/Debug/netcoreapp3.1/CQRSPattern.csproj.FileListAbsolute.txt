@@ -1,0 +1,14 @@
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\bin\Debug\netcoreapp3.1\CQRSPattern.exe
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\bin\Debug\netcoreapp3.1\CQRSPattern.deps.json
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\bin\Debug\netcoreapp3.1\CQRSPattern.runtimeconfig.json
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\bin\Debug\netcoreapp3.1\CQRSPattern.runtimeconfig.dev.json
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\bin\Debug\netcoreapp3.1\CQRSPattern.dll
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\bin\Debug\netcoreapp3.1\CQRSPattern.pdb
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\obj\Debug\netcoreapp3.1\CQRSPattern.csproj.AssemblyReference.cache
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\obj\Debug\netcoreapp3.1\CQRSPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\obj\Debug\netcoreapp3.1\CQRSPattern.AssemblyInfoInputs.cache
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\obj\Debug\netcoreapp3.1\CQRSPattern.AssemblyInfo.cs
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\obj\Debug\netcoreapp3.1\CQRSPattern.csproj.CoreCompileInputs.cache
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\obj\Debug\netcoreapp3.1\CQRSPattern.dll
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\obj\Debug\netcoreapp3.1\CQRSPattern.pdb
+F:\SelfLearning\Examples\CQRSPattern\CQRSPattern\CQRSPattern\obj\Debug\netcoreapp3.1\CQRSPattern.genruntimeconfig.cache
