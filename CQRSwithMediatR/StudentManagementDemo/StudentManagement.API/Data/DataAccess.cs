@@ -9,11 +9,11 @@ namespace StudentManagement.API.Data
         private List<StudentModel> _students = new();
 
 
-        DataAccess()
+        public DataAccess()
         {
             _students.Add(new StudentModel {Id = 1 ,FirstName = "A",LastName = "Nguyen Van" });
             _students.Add(new StudentModel {Id = 2 ,FirstName = "B",LastName = "Nguyen Van" });
-            _students.Add(new StudentModel {Id = 2 ,FirstName = "C",LastName = "Nguyen Van" });
+            _students.Add(new StudentModel {Id = 3 ,FirstName = "C",LastName = "Nguyen Van" });
         }
 
         public List<StudentModel> GetStudents() { 

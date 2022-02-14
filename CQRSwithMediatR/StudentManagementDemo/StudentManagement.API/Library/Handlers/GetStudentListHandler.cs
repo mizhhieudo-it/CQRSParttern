@@ -8,11 +8,12 @@ using System.Threading.Tasks;
 
 namespace StudentManagement.API.Library.Handlers
 {
+    // triển khai interface IRequestHandler<tham số truyền vào x ,kiểu trả về y  > => triển khai fun Handle => với hanlder sẽ có kiểu trả về x , y  
     public class GetStudentListHandler : IRequestHandler<GetStudentListQuery, List<StudentModel>>
-                                                        // nó là kiểu GetStudentListQuery => trả về 1 list StudentModel
+                                                        // tham số truyền vào / Kiểu trả về  
     {
         private readonly IDataAccess _dataAccess; 
-        GetStudentListHandler(IDataAccess dataAccess)
+        public GetStudentListHandler(IDataAccess dataAccess)
         {
             _dataAccess = dataAccess;
         }

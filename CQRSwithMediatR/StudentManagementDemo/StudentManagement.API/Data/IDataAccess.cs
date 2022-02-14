@@ -7,5 +7,6 @@ namespace StudentManagement.API.Data
     {
         public List<StudentModel> GetStudents();
         StudentModel AddStudent(string firstName, string lastName);
+        //StudentModel GetByID(int id);    
     }
 }
