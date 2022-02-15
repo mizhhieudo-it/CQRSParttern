@@ -12,3 +12,13 @@
     - Command phụ trách ghi dữ liệu 
 ## Mô tả thông qua ảnh
 ![description is an images](images/PatternCQRS.png)
+# CQRS voi pattern MediatR 
+
+DB <= | IData           | <= | Command | <= | Handler implement Irequest |
+      | DATA implement  |    | Query   |    |                            |
+                                | 
+                                | IMediator=> send 
+                                |
+                              ____________  
+                             | Controller |
+                             |            |
