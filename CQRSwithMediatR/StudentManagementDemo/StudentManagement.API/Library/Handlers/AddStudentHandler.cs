@@ -16,6 +16,8 @@ namespace StudentManagement.API.Library.Handlers
         }
         public Task<StudentModel> Handle(AddStudentCommand request, CancellationToken cancellationToken)
         {
+            // phat event cho message broker ( message bus: rabbit, active, kafa, ram )
+
             return Task.FromResult(_dataAccess.AddStudent(request.FirstName,request.LastName));
         }
     }
